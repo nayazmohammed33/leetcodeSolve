@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/nayazmohammed33/leetcodeSolve/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/nayazmohammed33/leetcodeSolve/tree/master/0035-search-insert-position) |
+| [0506-relative-ranks](https://github.com/nayazmohammed33/leetcodeSolve/tree/master/0506-relative-ranks) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,4 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/nayazmohammed33/leetcodeSolve/tree/master/0021-merge-two-sorted-lists) |
+## Sorting
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/nayazmohammed33/leetcodeSolve/tree/master/0506-relative-ranks) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/nayazmohammed33/leetcodeSolve/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
