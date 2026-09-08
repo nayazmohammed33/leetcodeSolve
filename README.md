@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/nayazmohammed33/leetcodeSolve/tree/master/0198-house-robber) |
 | [0506-relative-ranks](https://github.com/nayazmohammed33/leetcodeSolve/tree/master/0506-relative-ranks) |
 | [2032-two-out-of-three](https://github.com/nayazmohammed33/leetcodeSolve/tree/master/2032-two-out-of-three) |
+| [3833-count-dominant-indices](https://github.com/nayazmohammed33/leetcodeSolve/tree/master/3833-count-dominant-indices) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2032-two-out-of-three](https://github.com/nayazmohammed33/leetcodeSolve/tree/master/2032-two-out-of-three) |
+## Enumeration
+|  |
+| ------- |
+| [3833-count-dominant-indices](https://github.com/nayazmohammed33/leetcodeSolve/tree/master/3833-count-dominant-indices) |
 <!---LeetCode Topics End-->
